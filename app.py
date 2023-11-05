@@ -2,8 +2,7 @@ from tkinter import *
 from tkinter import ttk
 
 root = Tk()
-root.geometry("1300x700")
-root.configure(bg = "#BADBE6")
+root.geometry("500x500")
 content = ttk.Frame(root)
 
 def handle_click():
